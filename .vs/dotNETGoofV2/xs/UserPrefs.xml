@@ -19,19 +19,9 @@
           <Node name="dotNETGoofV2" expanded="True">
             <Node name="dotNETGoofV2.Website" expanded="True">
               <Node name="Dependencies" expanded="True">
-                <Node name="FrameworkReferences" expanded="True" />
-                <Node name="PackageDependencies" expanded="True">
-                  <Node name="System.Text.Encodings.Web" selected="True" />
-                </Node>
+                <Node name="PackageDependencies" expanded="True" />
               </Node>
-              <Node name="Components" expanded="True" />
-              <Node name="Controllers" expanded="True" />
-              <Node name="Models" expanded="True" />
-              <Node name="Pages" expanded="True" />
-              <Node name="Properties" expanded="True" />
-              <Node name="Services" expanded="True" />
-              <Node name="wwwroot" expanded="True" />
-              <Node name="appsettings.json" expanded="True" />
+              <Node name="appsettings.json" selected="True" />
             </Node>
           </Node>
         </State>

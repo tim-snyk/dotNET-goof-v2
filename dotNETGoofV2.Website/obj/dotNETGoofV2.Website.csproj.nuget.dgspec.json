@@ -58,6 +58,10 @@
               "target": "Package",
               "version": "[5.9.0, )"
             },
+            "Svg": {
+              "target": "Package",
+              "version": "[3.2.3, )"
+            },
             "System.Text.Encodings.Web": {
               "target": "Package",
               "version": "[4.5.1, )"

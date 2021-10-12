@@ -38,6 +38,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Blogifier.Core": {
+              "target": "Package",
+              "version": "[2.5.5, )"
+            },
+            "Confluent.Kafka": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
             "EJS": {
               "target": "Package",
               "version": "[1.0.0, )"
@@ -70,6 +78,10 @@
               "target": "Package",
               "version": "[4.8.2, )"
             },
+            "UmbracoForms": {
+              "target": "Package",
+              "version": "[8.4.0, )"
+            },
             "Wire": {
               "target": "Package",
               "version": "[1.0.0, )"
@@ -77,6 +89,10 @@
             "bootstrap": {
               "target": "Package",
               "version": "[4.1.0, )"
+            },
+            "itext7": {
+              "target": "Package",
+              "version": "[7.1.14, )"
             }
           },
           "imports": [

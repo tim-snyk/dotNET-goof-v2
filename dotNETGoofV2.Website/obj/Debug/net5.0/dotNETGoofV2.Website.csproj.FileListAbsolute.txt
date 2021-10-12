@@ -689,9 +689,3 @@
 /Users/mattbrown/Desktop/SME_Work/dotNET-goof-v2/dotNETGoofV2.Website/bin/Debug/net5.0/runtimes/win-x86/native/msvcp120.dll
 /Users/mattbrown/Desktop/SME_Work/dotNET-goof-v2/dotNETGoofV2.Website/bin/Debug/net5.0/runtimes/win-x86/native/msvcr120.dll
 /Users/mattbrown/Desktop/SME_Work/dotNET-goof-v2/dotNETGoofV2.Website/bin/Debug/net5.0/runtimes/win-x86/native/zlib.dll
-/Users/mattbrown/Desktop/SME_Work/dotNET-goof-v2/dotNETGoofV2.Website/bin/Debug/net5.0/Umbraco.Core.dll
-/Users/mattbrown/Desktop/SME_Work/dotNET-goof-v2/dotNETGoofV2.Website/bin/Debug/net5.0/EPPlus.dll
-/Users/mattbrown/Desktop/SME_Work/dotNET-goof-v2/dotNETGoofV2.Website/bin/Debug/net5.0/Umbraco.Forms.Core.Providers.dll
-/Users/mattbrown/Desktop/SME_Work/dotNET-goof-v2/dotNETGoofV2.Website/bin/Debug/net5.0/Umbraco.Forms.Core.dll
-/Users/mattbrown/Desktop/SME_Work/dotNET-goof-v2/dotNETGoofV2.Website/bin/Debug/net5.0/Umbraco.Forms.Web.dll
-/Users/mattbrown/Desktop/SME_Work/dotNET-goof-v2/dotNETGoofV2.Website/bin/Debug/net5.0/Umbraco.Licensing.dll

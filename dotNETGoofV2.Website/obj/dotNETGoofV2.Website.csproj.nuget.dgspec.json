@@ -78,10 +78,6 @@
               "target": "Package",
               "version": "[4.8.2, )"
             },
-            "UmbracoForms": {
-              "target": "Package",
-              "version": "[8.4.0, )"
-            },
             "Wire": {
               "target": "Package",
               "version": "[1.0.0, )"

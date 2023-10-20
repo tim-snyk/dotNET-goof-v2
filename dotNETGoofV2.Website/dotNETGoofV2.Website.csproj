@@ -30,7 +30,7 @@
     <PackageReference Include="ServiceStack" Version="5.9.0" />
     <PackageReference Include="Svg" Version="3.2.3" />
     <PackageReference Include="System.Text.Encodings.Web" Version="4.5.1" />
-    <PackageReference Include="TinyMCE" Version="4.8.2" />
+    <PackageReference Include="TinyMCE" Version="5.10.8" />
     <PackageReference Include="Wire" Version="1.0.0" />
   </ItemGroup>
 </Project>
